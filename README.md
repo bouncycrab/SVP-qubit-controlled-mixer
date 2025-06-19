@@ -1,0 +1,1 @@
+this is a sample workflow to map an input basis to be solved via (classically simulated) quantum computer. One can edit the classical simulator to use qiskit's quantum hardware instead since this is in qiskit.
